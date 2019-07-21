@@ -1,0 +1,11 @@
+D:\Practices\CreateLoginWindow\bin\Debug\CreateLoginWindow.exe.config
+D:\Practices\CreateLoginWindow\bin\Debug\CreateLoginWindow.exe
+D:\Practices\CreateLoginWindow\bin\Debug\CreateLoginWindow.pdb
+D:\Practices\CreateLoginWindow\obj\Debug\CreateLoginWindow.csprojAssemblyReference.cache
+D:\Practices\CreateLoginWindow\obj\Debug\CreateLoginWindow.Form1.resources
+D:\Practices\CreateLoginWindow\obj\Debug\CreateLoginWindow.Main.resources
+D:\Practices\CreateLoginWindow\obj\Debug\CreateLoginWindow.Properties.Resources.resources
+D:\Practices\CreateLoginWindow\obj\Debug\CreateLoginWindow.csproj.GenerateResource.cache
+D:\Practices\CreateLoginWindow\obj\Debug\CreateLoginWindow.csproj.CoreCompileInputs.cache
+D:\Practices\CreateLoginWindow\obj\Debug\CreateLoginWindow.exe
+D:\Practices\CreateLoginWindow\obj\Debug\CreateLoginWindow.pdb
