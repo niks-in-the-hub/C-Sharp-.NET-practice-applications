@@ -1,0 +1,15 @@
+D:\c#\AzureDLL\AzureUpload\bin\Debug\AzureUpload.exe.config
+D:\c#\AzureDLL\AzureUpload\bin\Debug\AzureUpload.exe
+D:\c#\AzureDLL\AzureUpload\bin\Debug\AzureUpload.pdb
+D:\c#\AzureDLL\AzureUpload\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+D:\c#\AzureDLL\AzureUpload\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+D:\c#\AzureDLL\AzureUpload\bin\Debug\Newtonsoft.Json.dll
+D:\c#\AzureDLL\AzureUpload\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+D:\c#\AzureDLL\AzureUpload\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+D:\c#\AzureDLL\AzureUpload\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+D:\c#\AzureDLL\AzureUpload\bin\Debug\Newtonsoft.Json.xml
+D:\c#\AzureDLL\AzureUpload\obj\Debug\AzureUpload.csprojAssemblyReference.cache
+D:\c#\AzureDLL\AzureUpload\obj\Debug\AzureUpload.csproj.CoreCompileInputs.cache
+D:\c#\AzureDLL\AzureUpload\obj\Debug\AzureUpload.csproj.CopyComplete
+D:\c#\AzureDLL\AzureUpload\obj\Debug\AzureUpload.exe
+D:\c#\AzureDLL\AzureUpload\obj\Debug\AzureUpload.pdb
